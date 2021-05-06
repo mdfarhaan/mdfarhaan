@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ibb.co/6X6fyRd"></p>
+<p align='center'><img src="https://i.ibb.co/CPxTw5r/MD-FARHAAN-logo.png" alt="MD-FARHAAN-logo" border="0" /></p>
 <!--
 **mdfarhaan/mdfarhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
