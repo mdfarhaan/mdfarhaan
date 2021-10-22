@@ -6,10 +6,21 @@ A first year B-Tech Computer Science Engineering undergraduate student from Chen
 
 # Tech Stack
 
-<p align='center'>
-  <img src="./Assets/python.svg"  width="35px" alt="MD-FARHAAN-logo" border="0" />
-  <img src="./Assets/react.svg"  width="35px" alt="MD-FARHAAN-logo" border="0" />
-  <img src="./Assets/javascript.svg"  width="35px" alt="MD-FARHAAN-logo" border="0" />
-  
-  
+<p align='left'>
+  <img src="./Assets/python.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/javascript.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />
+</p>
+<p align='left'>
+  <img src="./Assets/react.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/html.svg"  width="30px" height="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/css.svg"  width="30px" height="30px" alt="MD-FARHAAN-logo" border="0" />
+</p>
+<p align='left'>
+  <img src="./Assets/git.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/github.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+</p>
+<p align='left'>
+  <img src="./Assets/vscode.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/xd.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
+  <img src="./Assets/figma.svg"  width="30px" height="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
 </p>
