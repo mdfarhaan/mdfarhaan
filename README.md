@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/CPxTw5r/MD-FARHAAN-logo.png" alt="MD-FARHAAN-logo" border="0" />
 </p>
 
-# Hi I'm Mohammed Farhaan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi I'm Mohammed Farhaan <img src="./Assets/wave.gif" width="35px">
  
 A first year B-Tech Computer Science Engineering undergraduate student from Chennai, Tamil Nadu with interest in programming and web dev.
 I love to code and develop web apps.
