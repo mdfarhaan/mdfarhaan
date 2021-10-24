@@ -9,7 +9,6 @@ A first year B-Tech Computer Science Engineering undergraduate student from Chen
 I love to code and develop web apps.
 # Tech Stack
 
-
 <p align='left'>
   <img src="./Assets/python.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
   <img src="./Assets/javascript.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />
@@ -28,3 +27,9 @@ I love to code and develop web apps.
   <img src="./Assets/xd.svg"  width="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
   <img src="./Assets/figma.svg"  width="30px" height="30px" alt="MD-FARHAAN-logo" border="0" />&nbsp;&nbsp;
 </p>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
+
+
+
