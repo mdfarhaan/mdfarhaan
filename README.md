@@ -5,8 +5,8 @@
 
 # Hi I'm Mohammed Farhaan <img src="./Assets/wave.gif" width="35px">
  
-A first year B-Tech Computer Science Engineering undergraduate student from Chennai, Tamil Nadu with interest in programming and web dev.
-I love to code and develop web apps.
+A first year CSE undergrad from Chennai with interest in programming and web dev.
+
 # Tech Stack
 
 <p align='left'>
