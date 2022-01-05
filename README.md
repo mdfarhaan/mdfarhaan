@@ -5,7 +5,7 @@
 
 # Hi I'm Mohammed Farhaan <img src="./Assets/wave.gif" width="35px">
  
-A first year CSE undergrad from Chennai with interest in programming and web dev.
+A first year CSE undergrad from Chennai with interest in web dev.
 
 # Tech Stack
 
